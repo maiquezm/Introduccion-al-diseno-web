@@ -1,0 +1,28 @@
+body {
+    font-family: Helvetica, Verdana, Arial, sans-serif;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+a {
+    color: red;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+p {
+    word-spacing: 2px;
+    letter-spacing: 1px;
+}
+
+.importante {
+    color: blue;
+}
+
+.negrita {
+    font-weight: bold;
+}
